@@ -4,8 +4,7 @@
 
 ## 🧠 Fields of Interest
 
-- 🔐 Cybersecurity & Ethical Hacking
-- 🤖 Machine Learning  
+- 🔐 Cybersecurity & Ethical Hacking  
 - 🌐 Web Development  
 - 🤖 Robotics & Embedded Systems  
 - ⚙️ Automation & Control Systems  
