@@ -1,4 +1,4 @@
-## nasif(burka/baruk)
+## nasif-xy(burka/baruk)
 
 ![Profile Banner](https://img.shields.io/badge/Welcome_to_My_Profile-000000?style=for-the-badge&logo=github&logoColor=white)
 
