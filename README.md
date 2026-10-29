@@ -11,7 +11,7 @@ Student developer from Ethiopia, learning by building projects in **cybersecurit
 - 💻 Building Python tools and working on software projects.
 - 🌾 Exploring technology for real-world problems, including agriculture.
 - 🤖 Interested in robotics, embedded systems, and how software interacts with hardware.
-- 📚 Currently focused on learning fundamentals and improving through hands-on practice.
+- 📚 Focused on learning fundamentals and improving through hands-on practice.
 
 ## Tools and technologies
 
@@ -40,13 +40,13 @@ Notes from hands-on security wargame practice.
 
 ## GitHub activity
 
-I removed the third-party statistics cards because their image service was returning a 404. Rather than replace them with another unverified image host, use GitHub's own pages for live information:
+I removed the third-party statistics cards because their image service was returning a 404. Rather than replace them with another unverified image host, use GitHub's own profile pages:
 
-- **[My repositories](https://github.com/nasif-xy?tab=repositories)** — projects and source code
-- **[My contribution activity](https://github.com/nasif-xy?tab=overview)** — GitHub's native contribution graph
-- **[My recent activity](https://github.com/nasif-xy?tab=activity)** — public activity
+- **[View my GitHub profile](https://github.com/nasif-xy)** — contribution graph, profile details, and public activity.
+- **[Browse my repositories](https://github.com/nasif-xy?tab=repositories)** — projects and source code.
+- **[Explore my starred repositories](https://github.com/nasif-xy?tab=stars)** — projects and tools I have starred.
 
-These links are more dependable than embedding external stats images. GitHub already displays the contribution graph on the profile page; repository-language totals can also vary based on which public repositories contain code.
+These are regular GitHub pages rather than externally hosted statistic images, so they avoid the broken stats-card section. GitHub's contribution graph reflects activity that meets GitHub's contribution rules; it is not a measure of every hour spent learning.
 
 ## Connect
 
