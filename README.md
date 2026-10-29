@@ -97,10 +97,10 @@
 <div align="center">
 
 <a href="https://github.com/nasif-xy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nasif-xy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Burka's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-eight-nu.vercel.app/api?username=nasif-xy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Burka's GitHub stats" />
 </a>
 <a href="https://github.com/nasif-xy">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasif-xy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=nasif-xy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </a>
 
 <a href="https://github.com/nasif-xy">
