@@ -1,68 +1,60 @@
-# ⚡ Hey, I'm Burka (Nasif)
+# Hey, I'm Burka (Nasif)
 
-> Student developer exploring **cybersecurity, full-stack engineering, and practical robotics** — learning by building and documenting real projects.
+Student developer from Ethiopia, learning by building projects in **cybersecurity, software development, and practical technology**.
 
-![Welcome](https://img.shields.io/badge/BUILD-LEARN-REPEAT-111827?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=nasif-xy&style=for-the-badge&color=blueviolet)
+[![GitHub](https://img.shields.io/badge/GitHub-nasif--xy-181717?style=flat-square&logo=github)](https://github.com/nasif-xy)
+[![Profile views](https://komarev.com/ghpvc/?username=nasif-xy&style=flat-square&color=blue)](https://github.com/nasif-xy)
 
-## 🧭 About Me
+## About
 
-- 🔐 Exploring ethical hacking, web security, digital forensics, and CTF challenges in authorized labs.
-- 🌐 Building practical applications, APIs, and developer tools.
-- 🤖 Interested in robotics, embedded systems, and technology for real-world problems.
-- 🌱 Focused on improving my problem-solving skills and shipping projects that are useful.
+- 🔐 Learning web security, network fundamentals, digital forensics, and CTF techniques in authorized labs.
+- 💻 Building Python tools and working on software projects.
+- 🌾 Exploring technology for real-world problems, including agriculture.
+- 🤖 Interested in robotics, embedded systems, and how software interacts with hardware.
+- 📚 Currently focused on learning fundamentals and improving through hands-on practice.
 
-## 🛠️ Tech Stack
+## Tools and technologies
 
-**Languages**
+**Languages:** Python · JavaScript · C · C++ · HTML · CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Tools I'm learning and using:** Git · Linux/Kali Linux · Nmap · Burp Suite · Arduino
 
-**Tools & areas I'm exploring**
+> These are areas I work with or am learning—not a claim of expert-level proficiency in every tool.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+## Selected projects
 
-## 🚀 Featured Projects
+### 🌾 [AgriVision AI](https://github.com/nasif-xy/Agrivision-AI)
+An early-stage project exploring soil information and agricultural decision support for Ethiopian use cases.
 
-| Project | What it does |
-|---|---|
-| 🌾 **[AgriVision AI](https://github.com/nasif-xy/Agrivision-AI)** | Exploring digital soil intelligence for Ethiopian agriculture and more informed crop decisions. |
-| 🛡️ **[MASA — INSA Project](https://github.com/nasif-xy/MASA-INSA-project)** | A cybersecurity-focused project; includes my work on the Windows version. |
-| 🔎 **[Cybersecurity Projects](https://github.com/nasif-xy/cybersecurity-projects)** | A workspace for security learning, experiments, and practical tools. |
-| 🧰 **[IP Analyzer](https://github.com/nasif-xy/ip_analyzer)** | A Python project for working with IP/network information. |
+### 🛡️ [MASA — INSA Project](https://github.com/nasif-xy/MASA-INSA-project)
+Cybersecurity project repository. My contribution includes work on the Windows version; see the repository for implementation details and the demo.
 
-## 📊 GitHub Overview
+### 🔎 [Cybersecurity Projects](https://github.com/nasif-xy/cybersecurity-projects)
+A collection of practical cybersecurity learning projects and tools.
 
-The old stats image host can be unreliable or rate-limited. These cards use **GitHub Stats Extended**, a maintained successor to the original GitHub Readme Stats project.
+### 🌐 [IP Analyzer](https://github.com/nasif-xy/ip_analyzer)
+A small Python project for exploring IP address and network information.
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nasif-xy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for nasif-xy" height="175" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nasif-xy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" height="175" />
-</p>
+### 📓 [OverTheWire Wargame Notes](https://github.com/nasif-xy/OverThewire-wargame-notes)
+Notes from hands-on security wargame practice.
 
-<p align="center">
-  <a href="https://github.com/nasif-xy?tab=repositories">Browse my repositories</a> ·
-  <a href="https://github.com/nasif-xy?tab=stars">Explore my stars</a> ·
-  <a href="https://github.com/nasif-xy?tab=activity">Recent activity</a>
-</p>
+## GitHub activity
 
-## 🤝 Connect
+I removed the third-party statistics cards because their image service was returning a 404. Rather than replace them with another unverified image host, use GitHub's own pages for live information:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burka-t-amir45)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nasif_78)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasif7850)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovelyfathergod@gmail.com)
+- **[My repositories](https://github.com/nasif-xy?tab=repositories)** — projects and source code
+- **[My contribution activity](https://github.com/nasif-xy?tab=overview)** — GitHub's native contribution graph
+- **[My recent activity](https://github.com/nasif-xy?tab=activity)** — public activity
+
+These links are more dependable than embedding external stats images. GitHub already displays the contribution graph on the profile page; repository-language totals can also vary based on which public repositories contain code.
+
+## Connect
+
+- LinkedIn: [Burka T. Amir](https://www.linkedin.com/in/burka-t-amir45)
+- Telegram: [@Nasif_78](https://t.me/Nasif_78)
+- Instagram: [@nasif7850](https://www.instagram.com/nasif7850)
+- Email: [Contact me](mailto:lovelyfathergod@gmail.com)
 
 ---
 
-*Learning consistently. Building thoughtfully. Improving one commit at a time.*
+*Learning in public, building step by step, and documenting what I discover.*
