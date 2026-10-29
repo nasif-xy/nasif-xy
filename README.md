@@ -1,63 +1,68 @@
-# ⚡ Hello, I'm Burka (nasif-xy)
+# ⚡ Hey, I'm Burka (Nasif)
 
-![Profile Banner](https://img.shields.io/badge/Welcome_to_My_Profile-000000?style=for-the-badge&logo=github&logoColor=white)
+> Student developer exploring **cybersecurity, full-stack engineering, and practical robotics** — learning by building and documenting real projects.
 
-## 🧠 Fields of Interest
-* 🔐 **Cybersecurity & Ethical Hacking:** Mobile pentesting, web vulnerabilities, local lab setups, and CTFs.
-* 🌐 **Full-Stack Web Development:** Building functional, modern apps and secure API backends.
-* 🤖 **Robotics & IoT:** Integrating AI with microcontrollers and automated hardware control systems.
+![Welcome](https://img.shields.io/badge/BUILD-LEARN-REPEAT-111827?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=nasif-xy&style=for-the-badge&color=blueviolet)
 
----
+## 🧭 About Me
 
-## 🛠️ Skills & Technologies
+- 🔐 Exploring ethical hacking, web security, digital forensics, and CTF challenges in authorized labs.
+- 🌐 Building practical applications, APIs, and developer tools.
+- 🤖 Interested in robotics, embedded systems, and technology for real-world problems.
+- 🌱 Focused on improving my problem-solving skills and shipping projects that are useful.
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+## 🛠️ Tech Stack
 
-### ⚙️ Frameworks, Tools & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Languages**
 
-### 🔐 Cybersecurity & Pentesting
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🔌 Hardware & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-0A0A0A?style=for-the-badge)
+**Tools & areas I'm exploring**
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-* 🌾 **AgriVision AI**
-  * Digital soil intelligence platform designed for Ethiopian agriculture, leveraging image/location data to deliver crop and fertilizer recommendations.
-* 📱 **Mobile Pentest Platform**
-  * A mobile application vulnerability testing workspace built utilizing a FastAPI backend and a Vite frontend.
-* 🦯 **Smart Blind Navigation Stick**
-  * An Arduino-based physical computing project featuring ultrasonic sensors, servo motors, and obstacle avoidance systems.
+| Project | What it does |
+|---|---|
+| 🌾 **[AgriVision AI](https://github.com/nasif-xy/Agrivision-AI)** | Exploring digital soil intelligence for Ethiopian agriculture and more informed crop decisions. |
+| 🛡️ **[MASA — INSA Project](https://github.com/nasif-xy/MASA-INSA-project)** | A cybersecurity-focused project; includes my work on the Windows version. |
+| 🔎 **[Cybersecurity Projects](https://github.com/nasif-xy/cybersecurity-projects)** | A workspace for security learning, experiments, and practical tools. |
+| 🧰 **[IP Analyzer](https://github.com/nasif-xy/ip_analyzer)** | A Python project for working with IP/network information. |
 
----
+## 📊 GitHub Overview
 
-## 📈 GitHub Stats
+The old stats image host can be unreliable or rate-limited. These cards use **GitHub Stats Extended**, a maintained successor to the original GitHub Readme Stats project.
 
-<!-- Fixed Vercel Rate Limit error by routing through high-availability fast mirror -->
-![Burka's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nasif-xy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nasif-xy&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nasif-xy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for nasif-xy" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nasif-xy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" height="175" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/nasif-xy?tab=repositories">Browse my repositories</a> ·
+  <a href="https://github.com/nasif-xy?tab=stars">Explore my stars</a> ·
+  <a href="https://github.com/nasif-xy?tab=activity">Recent activity</a>
+</p>
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burka-t-amir45?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nasif_78) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasif7850?igsh=MWtvNHVqdDY3YjU3aw==)
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burka-t-amir45)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nasif_78)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasif7850)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovelyfathergod@gmail.com)
+
+---
+
+*Learning consistently. Building thoughtfully. Improving one commit at a time.*
