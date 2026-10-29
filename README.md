@@ -1,8 +1,8 @@
-# ⚡ Hey, I'm Burka (Nasif)
+#  Hey, I'm Burka (Nasif)
 
 > Student developer exploring **cybersecurity, full-stack engineering, and practical robotics** — learning by building and documenting real projects.
 
-![Welcome](https://img.shields.io/badge/BUILD-LEARN-REPEAT-111827?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-nasif--xy-181717?style=flat-square&logo=github)](https://github.com/nasif-xy)
 ![Profile views](https://komarev.com/ghpvc/?username=nasif-xy&style=for-the-badge&color=blueviolet)
 
 ## 🧭 About Me
