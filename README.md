@@ -1,33 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Burka+(Nasif)+%F0%9F%91%8B;Student+Developer+%7C+Cybersecurity+Learner;Building+projects%2C+learning+every+day" alt="Animated introduction: Hey, I'm Burka (Nasif)" />
-</p>
+# Hey, I'm Burka (Nasif)
 
-<p align="center">
-  <a href="https://github.com/nasif-xy"><img src="https://img.shields.io/badge/GitHub-nasif--xy-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nasif-xy&style=flat-square&color=blue" alt="Profile views" />
-</p>
+Student developer from Ethiopia, learning by building projects in **cybersecurity, software development, and practical technology**.
 
-<p align="center">
-  Student developer from Ethiopia learning through hands-on projects in <b>cybersecurity, software development, and practical technology</b>.
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-nasif--xy-181717?style=flat-square&logo=github)](https://github.com/nasif-xy)
+[![Profile views](https://komarev.com/ghpvc/?username=nasif-xy&style=flat-square&color=blue)](https://github.com/nasif-xy)
 
-## 👋 About Me
+## About
 
 - 🔐 Learning web security, network fundamentals, digital forensics, and CTF techniques in authorized labs.
 - 💻 Building Python tools and working on software projects.
 - 🌾 Exploring technology for real-world problems, including agriculture.
 - 🤖 Interested in robotics, embedded systems, and how software interacts with hardware.
-- 📚 Focused on strengthening fundamentals and improving through practice.
+- 📚 Focused on learning fundamentals and improving through hands-on practice.
 
-## 🛠️ Tools and Technologies
+## Tools and technologies
 
 **Languages:** Python · JavaScript · C · C++ · HTML · CSS
 
-**Tools and areas I'm learning:** Git · Linux/Kali Linux · Nmap · Burp Suite · Arduino
+**Tools I'm learning and using:** Git · Linux/Kali Linux · Nmap · Burp Suite · Arduino
 
-> These reflect tools I use or am learning, not a claim of expert-level proficiency in every area.
+> These are areas I work with or am learning—not a claim of expert-level proficiency in every tool.
 
-## 🚀 Selected Projects
+## Selected projects
 
 ### 🌾 [AgriVision AI](https://github.com/nasif-xy/Agrivision-AI)
 An early-stage project exploring soil information and agricultural decision support for Ethiopian use cases.
@@ -41,18 +35,20 @@ A collection of practical cybersecurity learning projects and tools.
 ### 🌐 [IP Analyzer](https://github.com/nasif-xy/ip_analyzer)
 A small Python project for exploring IP address and network information.
 
-### 📓 [OverTheWire Wargame Notes](https://github.com/nasif-xy/OverThewire-wargame-notes)
+### 📓 [OverTheWire Wargame Notes](https://github.com/nasif-xy/OverTheWire-wargame-notes)
 Notes from hands-on security wargame practice.
 
-## 📈 GitHub
+## GitHub activity
 
-I removed the external statistics cards because they were returning errors. GitHub's own pages are a more dependable way to explore my work:
+I removed the third-party statistics cards because their image service was returning a 404. Rather than replace them with another unverified image host, use GitHub's own profile pages:
 
-- 📁 [Browse my repositories](https://github.com/nasif-xy?tab=repositories)
-- 🧩 [View my profile and contribution graph](https://github.com/nasif-xy)
-- ⭐ [Explore repositories I've starred](https://github.com/nasif-xy?tab=stars)
+- **[View my GitHub profile](https://github.com/nasif-xy)** — contribution graph, profile details, and public activity.
+- **[Browse my repositories](https://github.com/nasif-xy?tab=repositories)** — projects and source code.
+- **[Explore my starred repositories](https://github.com/nasif-xy?tab=stars)** — projects and tools I have starred.
 
-## 🤝 Connect
+These are regular GitHub pages rather than externally hosted statistic images, so they avoid the broken stats-card section. GitHub's contribution graph reflects activity that meets GitHub's contribution rules; it is not a measure of every hour spent learning.
+
+## Connect
 
 - LinkedIn: [Burka T. Amir](https://www.linkedin.com/in/burka-t-amir45)
 - Telegram: [@Nasif_78](https://t.me/Nasif_78)
@@ -61,4 +57,4 @@ I removed the external statistics cards because they were returning errors. GitH
 
 ---
 
-<p align="center"><i>Learning in public · Building step by step · Improving with every project</i></p>
+*Learning in public, building step by step, and documenting what I discover.*
