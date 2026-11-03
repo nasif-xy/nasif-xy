@@ -1,7 +1,7 @@
 <!-- 🌈 Colorful profile header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FC466B&height=190&section=header&text=Burka%20(Tamiru)%20Nasif&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Cybersecurity%20%7C%20Builder&descAlignY=60&descSize=16" width="100%" alt="Colorful profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FC466B&height=190&section=header&text=Burka%20Nasif&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Cybersecurity%20%7C%20Builder&descAlignY=60&descSize=16" width="100%" alt="Colorful profile banner" />
 
 # 👋 Hey, I'm Burka (Nasif)!
 
